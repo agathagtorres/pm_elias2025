@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="PT-BR">
     <head>
@@ -11,11 +10,17 @@
         </script>
     </head>
     <body>
-          <button>1</button>
-            <button>2</button>
-            <button>3</button>
-               <button>+</button>
-              <button>%</button>
-               </br></br>
+        <button>1</button>
+        <button>2</button>
+        <button>3</button>
+        <button>+</button>
+        <button>%</button>
+        </br></br>
+        <button>1</button>
+        <button>2</button>
+        <button>3</button>
+        <button>+</button>
+        <button>%</button>
+        </br></br>
     </body>
 </html>
